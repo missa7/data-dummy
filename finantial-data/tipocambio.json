@@ -1,0 +1,40 @@
+{
+  "tipos_cambio": [
+    {
+      "fecha": "2026-01-19",
+      "moneda_origen": "PEN",
+      "moneda_destino": "USD",
+      "tipo_cambio": 3.327
+    },
+    {
+      "fecha": "2026-01-19",
+      "moneda_origen": "USD",
+      "moneda_destino": "EUR",
+      "tipo_cambio": 0.932
+    },
+    {
+      "fecha": "2026-01-19",
+      "moneda_origen": "USD",
+      "moneda_destino": "JPY",
+      "tipo_cambio": 147.823
+    },
+    {
+      "fecha": "2026-01-19",
+      "moneda_origen": "EUR",
+      "moneda_destino": "GBP",
+      "tipo_cambio": 0.853
+    },
+    {
+      "fecha": "2026-01-19",
+      "moneda_origen": "USD",
+      "moneda_destino": "BRL",
+      "tipo_cambio": 5.112
+    },
+    {
+      "fecha": "2026-01-19",
+      "moneda_origen": "USD",
+      "moneda_destino": "MXN",
+      "tipo_cambio": 17.042
+    }
+  ]
+}
