@@ -1,40 +1,69 @@
 {
+  "metadata": {
+    "banco": "Credicorp Capital",
+    "frecuencia": "Diaria",
+    "unidad_analisis": "Mesa de Dinero"
+  },
   "tipos_cambio": [
     {
       "fecha": "2026-01-19",
       "moneda_origen": "PEN",
       "moneda_destino": "USD",
-      "tipo_cambio": 3.327
+      "tipo_cambio": 3.727,
+      "variacion_24h": "+0.45%",
+      "tendencia": "Alcista",
+      "soporte": 3.680,
+      "resistencia": 3.850,
+      "alerta_estrategica": "Zona de acumulacion para perfiles agresivos.",
+      "comentario": "Presion al alza por incertidumbre externa. El sol muestra resiliencia frente a pares regionales."
     },
     {
       "fecha": "2026-01-19",
       "moneda_origen": "USD",
       "moneda_destino": "EUR",
-      "tipo_cambio": 0.932
+      "tipo_cambio": 0.932,
+      "variacion_24h": "-0.12%",
+      "tendencia": "Estable",
+      "soporte": 0.910,
+      "resistencia": 0.950,
+      "alerta_estrategica": "Mantener posiciones en activos europeos de alta calidad.",
+      "comentario": "Mercado a la espera de datos de inflacion en la Eurozona."
     },
     {
       "fecha": "2026-01-19",
       "moneda_origen": "USD",
       "moneda_destino": "JPY",
-      "tipo_cambio": 147.823
-    },
-    {
-      "fecha": "2026-01-19",
-      "moneda_origen": "EUR",
-      "moneda_destino": "GBP",
-      "tipo_cambio": 0.853
+      "tipo_cambio": 147.823,
+      "variacion_24h": "+1.20%",
+      "tendencia": "Fuerte Alza",
+      "soporte": 145.000,
+      "resistencia": 150.000,
+      "alerta_estrategica": "Riesgo de intervencion por parte del Banco de Japon.",
+      "comentario": "Debilidad del Yen favorece exportadoras niponas pero encarece importaciones de energia."
     },
     {
       "fecha": "2026-01-19",
       "moneda_origen": "USD",
       "moneda_destino": "BRL",
-      "tipo_cambio": 5.112
+      "tipo_cambio": 5.112,
+      "variacion_24h": "+0.80%",
+      "tendencia": "Volatil",
+      "soporte": 4.950,
+      "resistencia": 5.250,
+      "alerta_estrategica": "Oportunidad tactica en bonos brasileños si el Real se estabiliza.",
+      "comentario": "Ruido fiscal en Brasil genera salidas preventivas de capital."
     },
     {
       "fecha": "2026-01-19",
       "moneda_origen": "USD",
       "moneda_destino": "MXN",
-      "tipo_cambio": 17.042
+      "tipo_cambio": 17.042,
+      "variacion_24h": "-0.30%",
+      "tendencia": "Bajista",
+      "soporte": 16.800,
+      "resistencia": 17.500,
+      "alerta_estrategica": "El peso mexicano sigue siendo el 'carry trade' favorito.",
+      "comentario": "Inyeccion de flujos por nearshoring apoya la fortaleza del peso."
     }
   ]
 }
